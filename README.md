@@ -6,4 +6,4 @@ i do terrible things to computers and sometimes i undo them
 **irc**: `gryffyn` on libera.chat  
 **twitter**: [@gryffynmp](https://twitter.com/gryffynmp)
 
-Bleeding edge projects may be on my [gitea](https://git.neveris.one) server before here.
+Bleeding edge projects may be on my [gitea](https://git.gryffyn.io) server before here.
